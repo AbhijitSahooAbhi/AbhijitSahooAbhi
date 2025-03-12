@@ -30,12 +30,16 @@ Focused on web development, programming, and database management.
 ## **Licenses & Certifications**
 ![IBM Certification](https://img.shields.io/badge/Certified-IBM-blue)
 - **Introduction to Cloud Computing** - *IBM (Mar 2025)*  
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7302701156827291649" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+  ![Coursera  Introduction to Cloud Computing_page-0001](https://github.com/user-attachments/assets/b0fa2485-ade7-45ed-92c3-4b94d5e872be)
+
+
 - **Containers & Kubernetes Essentials** - *Authorized by IBM (Feb 2025)*  
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7301132478730170368" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+  ![Coursera OGKRHXVCC6GW_page-0001](https://github.com/user-attachments/assets/169bbf6f-c205-460e-b850-c2ac4d339ad1)
+
+
 ![GoogleCloud Certification](https://img.shields.io/badge/Certified-Google_Cloud-blue)
 - **Working with JSON, Arrays, and Structs in BigQuery** - *Feb 2025*
-  
+  ![BigQuery with JSON, Arrays, and Structs_page-0001 (1)](https://github.com/user-attachments/assets/62308b0f-0c92-4a19-9643-b93408e3aec4)
 
 ---
 
@@ -52,7 +56,7 @@ Focused on web development, programming, and database management.
 ## **Projects**
 ### **ILearnSpace** *(Mar 2024 - May 2024)*  
 **Description:** Developed a web-based attendance tracking system for educational institutions.  
-**Key Features:**  
+**Key Features**  
 - Role-based access control (administrators, faculty, students)  
 - Automated attendance recording  
 - Real-time updates and comprehensive reporting  
@@ -70,10 +74,27 @@ Engaged in leadership training, teamwork exercises, and community service initia
 
 ## **Activity**
 - I proudly earned my **"Introduction to Azure Virtual Machines" badge** through Microsoft Learn!  
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305277068861210624" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-- I proudly earned my **"Create a Windows virtual machine in Azure" badge** through Microsoft Learn!
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305276468849225729" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+- I proudly earned my **"Create a Windows virtual machine in Azure" badge** through Microsoft Learn!
+  
+- **Introduction to Cloud Computing**  
+  *Issued by Coursera, March 2025*  
+  - Gained a solid understanding of cloud platforms and models (IaaS, PaaS, SaaS) along with public, private, and hybrid multiclouds.
+  - Learned essential concepts like Virtualization, VMs, Containers, Object Storage, Microservices, Serverless, and DevOps.
+  - Hands-on experience with IBM Cloud account creation and service provisioning.
+    
+  ![introduction-to-cloud-computing](https://github.com/user-attachments/assets/75d6cb23-7240-4730-9b4a-e30467c7ae2b)
+
+
+- **Containers & Kubernetes Essentials**  
+  *Issued by Coursera, Authorized by IBM, February 2025*  
+  - Learned to build and run container images and understand Kubernetes architecture.
+  - Acquired skills in YAML deployment files, managing applications with Kubernetes, autoscaling, rolling updates, and service binding.
+  - Explored tools like OpenShift, Istio, and key Kubernetes utilities.
+ 
+    ![containers-kubernetes-essentials 1](https://github.com/user-attachments/assets/62402f86-dcb5-4330-8f25-2bb32c4c2667)
+
+ 
 ---
 
 ## **Contact**
