@@ -85,7 +85,7 @@ Engaged in leadership training, teamwork exercises, and community service initia
   - Learned essential concepts like Virtualization, VMs, Containers, Object Storage, Microservices, Serverless, and DevOps.
   - Hands-on experience with IBM Cloud account creation and service provisioning.
     
-  ![introduction-to-cloud-computing](https://github.com/user-attachments/assets/75d6cb23-7240-4730-9b4a-e30467c7ae2b)
+    ![introduction-to-cloud-computing](https://github.com/user-attachments/assets/75d6cb23-7240-4730-9b4a-e30467c7ae2b)
 
 
 - **Containers & Kubernetes Essentials**  
