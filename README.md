@@ -74,9 +74,11 @@ Engaged in leadership training, teamwork exercises, and community service initia
 
 ## **Activity**
 - I proudly earned my **"Introduction to Azure Virtual Machines" badge** through Microsoft Learn!  
+  ![Introduction to Azure_page-0001](https://github.com/user-attachments/assets/52333e83-c6e8-4e9f-994d-3d6e74936bb3)
 
 - I proudly earned my **"Create a Windows virtual machine in Azure" badge** through Microsoft Learn!
-  
+  ![Create virtual machine in Azure_page-0001](https://github.com/user-attachments/assets/6e7f51b9-c6fd-4e94-b81c-47146252768a)
+
 - **Introduction to Cloud Computing**  
   *Issued by Coursera, March 2025*  
   - Gained a solid understanding of cloud platforms and models (IaaS, PaaS, SaaS) along with public, private, and hybrid multiclouds.
