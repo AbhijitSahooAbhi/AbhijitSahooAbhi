@@ -28,7 +28,7 @@ Focused on web development, programming, and database management.
 ---
 
 ## **📜 Licenses & Certifications**
-![IBM Certification](https://img.shields.io/badge/Certified-IBM-blue)
+![IBM Certification](https://img.shields.io/badge/Certified-IBM-blue) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - **Introduction to Cloud Computing** - *IBM (Mar 2025)*  
   ![Coursera  Introduction to Cloud Computing_page-0001](https://github.com/user-attachments/assets/b0fa2485-ade7-45ed-92c3-4b94d5e872be)
 
@@ -37,7 +37,7 @@ Focused on web development, programming, and database management.
   ![Coursera OGKRHXVCC6GW_page-0001](https://github.com/user-attachments/assets/169bbf6f-c205-460e-b850-c2ac4d339ad1)
 
 
-![GoogleCloud Certification](https://img.shields.io/badge/Certified-Google_Cloud-blue)
+![GoogleCloud Certification](https://img.shields.io/badge/Certified-Google_Cloud-blue) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - **Working with JSON, Arrays, and Structs in BigQuery** - *Feb 2025*
   ![BigQuery with JSON, Arrays, and Structs_page-0001 (1)](https://github.com/user-attachments/assets/62308b0f-0c92-4a19-9643-b93408e3aec4)
 
@@ -107,7 +107,8 @@ Engaged in leadership training, teamwork exercises, and community service initia
 ---
 
 ## **📫 Contact**
-![GitHub](https://img.shields.io/badge/GitHub-AbhijitSahooAbhi-black)  ![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit%20Sahoo-blue) ![Email](https://img.shields.io/badge/Email-abhijitsahoo2002@gmail.com-red?style=flat-square&logo=gmail)    
+[![GitHub](https://img.shields.io/badge/GitHub-AbhijitSahooAbhi-black?logo=github)](https://github.com/Abhijitsahooabhi)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit%20Sahoo-blue?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/abhijit-sahoo-abhi70303/) ![Email](https://img.shields.io/badge/Email-abhijitsahoo2002@gmail.com-red?style=flat-square&logo=gmail)    
     
 
 Feel free to connect with me to explore opportunities in software engineering, system administration, or related fields!  
