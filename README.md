@@ -2,7 +2,7 @@
 
 <center><img src="https://media.licdn.com/dms/image/v2/D4E03AQHV-Pu8X5I6Gg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731166070429?e=1747267200&v=beta&t=sXSV9PdZ6NAIyL2-bZuZUzb-d0Kcute3cMW6vegxbyI" height="400" width="400"></center>
 
-![Location](https://img.shields.io/badge/Location-Jagatsinghpur,_Odisha-Yellow)
+![Location](https://img.shields.io/badge/📍Location-Jagatsinghpur-yellow?style=flat-square&logo=location)   ![Email](https://img.shields.io/badge/Email-abhijitsahoo2002@gmail.com-red?style=flat-square&logo=gmail)   
 
 ![Cloud Computing Enthusiast](https://img.shields.io/badge/Cloud_Computing-Enthusiast-blue)  ![IT Management](https://img.shields.io/badge/IT-Management-success)  ![MCA Student](https://img.shields.io/badge/MCA-Student-orange)  ![GitHub](https://img.shields.io/badge/GitHub-AbhijitSahooAbhi-black) ![National Cadet Crops](https://img.shields.io/badge/NCC-National_Cadet_Crops-black)
 
