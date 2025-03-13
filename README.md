@@ -8,12 +8,12 @@
 
 ---
 
-## **About Me**
+## **🌟 Summary**
 I am currently pursuing a Master of Computer Applications (MCA) at the Institute of Management & Information Technology, Cuttack. My dedication to innovation in software development and cloud computing drives my enthusiasm for the tech industry. Having earned a Bachelor's degree in Information Technology from Ravenshaw University, I bring a strong technical foundation and problem-solving ability to tackle challenges and contribute to technological advancements.
 
 ---
 
-## **Education**
+## **🎓 Education**
 ### **Institute of Management & Information Technology, Cuttack**  
 **Master of Computer Applications (MCA)**  
 *Sep 2024 - Jul 2026*  
@@ -27,7 +27,7 @@ Focused on web development, programming, and database management.
 
 ---
 
-## **Licenses & Certifications**
+## **📜 Licenses & Certifications**
 ![IBM Certification](https://img.shields.io/badge/Certified-IBM-blue)
 - **Introduction to Cloud Computing** - *IBM (Mar 2025)*  
   ![Coursera  Introduction to Cloud Computing_page-0001](https://github.com/user-attachments/assets/b0fa2485-ade7-45ed-92c3-4b94d5e872be)
@@ -43,17 +43,24 @@ Focused on web development, programming, and database management.
 
 ---
 
-## **Key Skills**
-- Java Programming  
-- Web Development
-- MS Office & Office 365  
-- Database Management Systems (DBMS)  
-- Software Development Life Cycle (SDLC)
+## **🛠 Skills**
+### **💻 Technical Skills**
+- Java, Python, or C++ Programming
+- Web Development (HTML, CSS, JavaScript)
+- Cloud Platforms (Azure, AWS, GCP)
+- Database Management (MySQL, MongoDB)
+- Kubernetes and Docker Basics
+
+### **🤝 Soft Skills**
+- Teamwork and Collaboration
+- Leadership (from NCC experience)
+- Time Management
+- Communication Skills
 
 
 ---
 
-## **Projects**
+## **🏗️ Projects**
 ### **ILearnSpace** *(Mar 2024 - May 2024)*  
 **Description:** Developed a web-based attendance tracking system for educational institutions.  
 **Key Features**  
@@ -64,7 +71,7 @@ Focused on web development, programming, and database management.
 
 ---
 
-## **Volunteering Experience**
+## **🤝 Volunteering Experience**
 ### **National Cadet Corps (NCC)**  
 **Role:** Cadet  
 *Nov 2019 - Jun 2022*  
@@ -72,7 +79,7 @@ Engaged in leadership training, teamwork exercises, and community service initia
 
 ---
 
-## **Activity**
+## **🎯 Activity**
 - I proudly earned my **"Introduction to Azure Virtual Machines" badge** through Microsoft Learn!  
   ![Introduction to Azure_page-0001](https://github.com/user-attachments/assets/52333e83-c6e8-4e9f-994d-3d6e74936bb3)
 
@@ -99,12 +106,14 @@ Engaged in leadership training, teamwork exercises, and community service initia
  
 ---
 
-## **Contact**
-![GitHub](https://img.shields.io/badge/GitHub-AbhijitSahooAbhi-black)  ![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit%20Sahoo-blue) 
+## **📫 Contact**
+![GitHub](https://img.shields.io/badge/GitHub-AbhijitSahooAbhi-black)  ![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit%20Sahoo-blue) ![Email](https://img.shields.io/badge/Email-abhijitsahoo2002@gmail.com-red?style=flat-square&logo=gmail)    
+    
 
 Feel free to connect with me to explore opportunities in software engineering, system administration, or related fields!  
 
-- **GitHub:** [AbhijitSahooAbhi](https://github.com/Abhijitsahooabhi)  
+- **GitHub:** [AbhijitSahooAbhi](https://github.com/Abhijitsahooabhi)
+- **Email:** [Abhijit Sahoo](Abhijitsahoo2002@gmail.com)
 - **LinkedIn:** [Abhijit Sahoo](https://www.linkedin.com/in/abhijit-sahoo-abhi70303/)  
   
 Let's connect and create something amazing together!
