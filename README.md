@@ -1,4 +1,5 @@
-# ABHIJIT SAHOO
+<h1 align="center">Hi 👋, I'm Abhijit Sahoo</h1>
+<h3 align="center">A passionate Cloud Computing & Devops euthanistic from India</h3>
 
 <center><img src="https://media.licdn.com/dms/image/v2/D4E03AQHV-Pu8X5I6Gg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731166070429?e=1747267200&v=beta&t=sXSV9PdZ6NAIyL2-bZuZUzb-d0Kcute3cMW6vegxbyI" height="400" width="400"></center>
 
@@ -6,10 +7,15 @@
 
 ![Cloud Computing Enthusiast](https://img.shields.io/badge/Cloud_Computing-Enthusiast-blue)  ![IT Management](https://img.shields.io/badge/IT-Management-success)  ![MCA Student](https://img.shields.io/badge/MCA-Student-orange)  ![GitHub](https://img.shields.io/badge/GitHub-AbhijitSahooAbhi-black) ![National Cadet Crops](https://img.shields.io/badge/NCC-National_Cadet_Crops-black)
 
+
 ---
 
 ## **🌟 Summary**
+ 
+   - 🌱 I’m currently learning **Cloud Computing, Devops.**
+
 I am currently pursuing a Master of Computer Applications (MCA) at the Institute of Management & Information Technology, Cuttack. My dedication to innovation in software development and cloud computing drives my enthusiasm for the tech industry. Having earned a Bachelor's degree in Information Technology from Ravenshaw University, I bring a strong technical foundation and problem-solving ability to tackle challenges and contribute to technological advancements.
+
 
 ---
 
@@ -26,9 +32,31 @@ Focused on web development, programming, and database management.
 *Activities:* Member of the National Cadet Corps (NCC).  
 
 ---
+<h3 align="left">Languages and Tools:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijitsahooabhi&show_icons=true&locale=en&layout=compact" alt="abhijitsahooabhi" /></p>
+
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+</p>
+
+
+---
 
 ## **📜 Licenses & Certifications**
-![IBM Certification](https://img.shields.io/badge/Certified-IBM-blue) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  ![IBM Certification](https://img.shields.io/badge/Certified-IBM-blue)
 - **Introduction to Cloud Computing** - *IBM (Mar 2025)*  
   ![Coursera  Introduction to Cloud Computing_page-0001](https://github.com/user-attachments/assets/b0fa2485-ade7-45ed-92c3-4b94d5e872be)
 
@@ -37,7 +65,7 @@ Focused on web development, programming, and database management.
   ![Coursera OGKRHXVCC6GW_page-0001](https://github.com/user-attachments/assets/169bbf6f-c205-460e-b850-c2ac4d339ad1)
 
 
-![GoogleCloud Certification](https://img.shields.io/badge/Certified-Google_Cloud-blue) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  ![GoogleCloud Certification](https://img.shields.io/badge/Certified-Google_Cloud-blue)
 - **Working with JSON, Arrays, and Structs in BigQuery** - *Feb 2025*
   ![BigQuery with JSON, Arrays, and Structs_page-0001 (1)](https://github.com/user-attachments/assets/62308b0f-0c92-4a19-9643-b93408e3aec4)
 
@@ -108,7 +136,8 @@ Engaged in leadership training, teamwork exercises, and community service initia
 
 ## **📫 Contact**
 [![GitHub](https://img.shields.io/badge/GitHub-AbhijitSahooAbhi-black?logo=github)](https://github.com/Abhijitsahooabhi)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit%20Sahoo-blue?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/abhijit-sahoo-abhi70303/) ![Email](https://img.shields.io/badge/Email-abhijitsahoo2002@gmail.com-red?style=flat-square&logo=gmail)    
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit%20Sahoo-blue?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/abhijit-sahoo-abhi70303/) ![Email](https://img.shields.io/badge/Email-abhijitsahoo2002@gmail.com-red?style=flat-square&logo=gmail)   <p align="left"> <a href="https://twitter.com/abhijitsahoo_ab" target="blank"><img src="https://img.shields.io/twitter/follow/abhijitsahoo_ab?logo=twitter&style=for-the-badge" alt="abhijitsahoo_ab" /></a> </p>
+
     
 
 Feel free to connect with me to explore opportunities in software engineering, system administration, or related fields!  
@@ -118,3 +147,20 @@ Feel free to connect with me to explore opportunities in software engineering, s
 - **LinkedIn:** [Abhijit Sahoo](https://www.linkedin.com/in/abhijit-sahoo-abhi70303/)  
   
 Let's connect and create something amazing together!
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abhijitsahoo_ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijitsahoo_ab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhijit-sahoo-abhi70303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijit-sahoo-abhi70303" height="30" width="40" /></a>
+<a href="https://fb.com/abhijitsahoo.abhi.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhijitsahoo.abhi.2002" height="30" width="40" /></a>
+<a href="https://instagram.com/abhijitsahoo.abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijitsahoo.abhi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhijitsahoo_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijitsahoo_abhi" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijitsahooabhi&show_icons=true&locale=en" alt="abhijitsahooabhi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitsahooabhi&" alt="abhijitsahooabhi" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijitsahooabhi" alt="abhijitsahooabhi" /></a> </p>
+
+<center> <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitsahooabhi&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitsahooabhi" /> </p></center>
