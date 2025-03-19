@@ -79,6 +79,7 @@ Focused on web development, programming, and database management.
 - Cloud Platforms (Azure, AWS, GCP)
 - Database Management (MySQL, MongoDB)
 - Kubernetes and Docker Basics
+- Github
 
 ### **🤝 Soft Skills**
 - Teamwork and Collaboration
