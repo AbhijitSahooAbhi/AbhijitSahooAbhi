@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijit Sahoo</h1>
 <h3 align="center">A passionate Cloud Computing & Devops euthanistic from India</h3>
 
-<center><img src="https://media.licdn.com/dms/image/v2/D4E03AQHV-Pu8X5I6Gg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731166070429?e=1747267200&v=beta&t=sXSV9PdZ6NAIyL2-bZuZUzb-d0Kcute3cMW6vegxbyI" height="400" width="400"></center>
+<center><img src="https://avatars.githubusercontent.com/u/200543497?s=400&u=2af8043fe9c546225f5e46fb8d8dcbfdc1f2da4f&v=4" height="400" width="400"></center>
 
 ![Location](https://img.shields.io/badge/📍Location-Jagatsinghpur-yellow?style=flat-square&logo=location)   ![Email](https://img.shields.io/badge/Email-abhijitsahoo2002@gmail.com-red?style=flat-square&logo=gmail)   
 
