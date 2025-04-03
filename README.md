@@ -58,17 +58,23 @@ Focused on web development, programming, and database management.
 
 ## **📜 Licenses & Certifications**
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  ![IBM Certification](https://img.shields.io/badge/Certified-IBM-blue)
+- **Introduction to DevOps** - *IBM (Apr 2025)*
+  ![Introduction to DevOps](https://github.com/user-attachments/assets/8097a204-1a8e-43b2-84a3-41b45991bf1f)
+
+
+
+  
 - **Introduction to Cloud Computing** - *IBM (Mar 2025)*  
-  ![Coursera  Introduction to Cloud Computing_page-0001](https://github.com/user-attachments/assets/b0fa2485-ade7-45ed-92c3-4b94d5e872be)
+  ![Coursera  Introduction to Cloud Computing](https://github.com/user-attachments/assets/b0fa2485-ade7-45ed-92c3-4b94d5e872be)
 
 
 - **Containers & Kubernetes Essentials** - *Authorized by IBM (Feb 2025)*  
-  ![Coursera OGKRHXVCC6GW_page-0001](https://github.com/user-attachments/assets/169bbf6f-c205-460e-b850-c2ac4d339ad1)
+  ![Containers & Kubernetes Essentials](https://github.com/user-attachments/assets/169bbf6f-c205-460e-b850-c2ac4d339ad1)
 
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  ![GoogleCloud Certification](https://img.shields.io/badge/Certified-Google_Cloud-blue)
 - **Working with JSON, Arrays, and Structs in BigQuery** - *Feb 2025*
-  ![BigQuery with JSON, Arrays, and Structs_page-0001 (1)](https://github.com/user-attachments/assets/62308b0f-0c92-4a19-9643-b93408e3aec4)
+  ![BigQuery with JSON, Arrays, and Structs](https://github.com/user-attachments/assets/62308b0f-0c92-4a19-9643-b93408e3aec4)
 
 ---
 
@@ -116,6 +122,14 @@ Engaged in leadership training, teamwork exercises, and community service initia
 - I proudly earned my **"Create a Windows virtual machine in Azure" badge** through Microsoft Learn!
   ![Create virtual machine in Azure_page-0001](https://github.com/user-attachments/assets/6e7f51b9-c6fd-4e94-b81c-47146252768a)
 
+- **Introduction to DevOps**
+  *Issued by Coursera, April 2025*
+  - This credential earner has demonstrated foundational knowledge of the basic characteristics of DevOps.
+  - The individual has explored the concepts of breaking down silos and how to organize developers and operators into a single cross-functional DevOps team.
+  - The badge earner is also able to describe DevOps as a cultural movement, as well develop a business case for DevOps.
+ 
+    ![devops-essentials](https://github.com/user-attachments/assets/9c89f938-416f-4208-89de-8eb0df036756)
+    
 - **Introduction to Cloud Computing**  
   *Issued by Coursera, March 2025*  
   - Gained a solid understanding of cloud platforms and models (IaaS, PaaS, SaaS) along with public, private, and hybrid multiclouds.
@@ -146,12 +160,16 @@ Feel free to connect with me to explore opportunities in software engineering, s
 
 - **GitHub:** [AbhijitSahooAbhi](https://github.com/Abhijitsahooabhi)
 - **Email:** [Abhijit Sahoo](Abhijitsahoo2002@gmail.com)
-- **LinkedIn:** [Abhijit Sahoo](https://www.linkedin.com/in/abhijit-sahoo-abhi70303/)  
+- **LinkedIn:** [Abhijit Sahoo](https://www.linkedin.com/in/abhijit-sahoo-abhi70303/)
+- **Credly Profile:** [Abhijit Sahoo](https://www.credly.com/users/abhijit-sahoo-abhi)
   
 Let's connect and create something amazing together!
 
 
 <h3 align="left">Connect with me:</h3>
+
+
+
 <p align="left">
 <a href="https://twitter.com/abhijitsahoo_ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijitsahoo_ab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhijit-sahoo-abhi70303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijit-sahoo-abhi70303" height="30" width="40" /></a>
