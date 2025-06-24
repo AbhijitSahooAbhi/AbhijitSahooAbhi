@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Abhijit Sahoo - Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        :root {
+            --primary: #0056d2;
+            --secondary: #073763;
+            --accent: #ffd700;
+            --bg: #f4f6fa;
+            --white: #fff;
+            --shadow: 0 4px 18px rgba(0,0,0,0.08);
+            --tab-radius: 10px 10px 0 0;
+        }
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, var(--white) 60%, #e3eefd 100%);
+            min-height: 100vh;
+            color: var(--secondary);
+        }
+        .center-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        header {
+            padding: 2.5rem 0 1rem 0;
+            background: linear-gradient(90deg, var(--primary) 70%, var(--accent) 100%);
+            color: var(--white);
+            box-shadow: var(--shadow);
+            text-align: center;
+            width: 100%;
+        }
+        .welcome-img {
+            border-radius: 50%;
+            border: 5px solid var(--accent);
+            margin: 1rem 0;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            box-shadow: 0 0 24px rgba(0,0,0,0.11);
+        }
+        input[type="radio"][name="sections"] {
+            display: none;
+        }
+        nav {
+            background: var(--white);
+            box-shadow: var(--shadow);
+            display: flex;
+            justify-content: center;
+            gap: 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            width: 100%;
+            margin-bottom: 0;
+            border-radius: var(--tab-radius);
+            overflow-x: auto;
+        }
+        nav label {
+            cursor: pointer;
+            color: var(--primary);
+            font-size: 1rem;
+            padding: 1rem 1.5rem;
+            font-weight: 600;
+            border-bottom: 3px solid transparent;
+            background: #f4f8ff;
+            border-radius: var(--tab-radius);
+            transition: color 0.2s, border-bottom 0.2s, background 0.2s;
+            margin: 0 2px;
+            position: relative;
+            min-width: 110px;
+            text-align: center;
+            box-sizing: border-box;
+        }
+        #tab-welcome:checked ~ nav label[for="tab-welcome"],
+        #tab-summary:checked ~ nav label[for="tab-summary"],
+        #tab-skills:checked ~ nav label[for="tab-skills"],
+        #tab-education:checked ~ nav label[for="tab-education"],
+        #tab-projects:checked ~ nav label[for="tab-projects"],
+        #tab-certificates:checked ~ nav label[for="tab-certificates"],
+        #tab-activities:checked ~ nav label[for="tab-activities"],
+        #tab-personal-details:checked ~ nav label[for="tab-personal-details"],
+        #tab-contact:checked ~ nav label[for="tab-contact"] {
+            color: var(--secondary);
+            border-bottom: 4px solid var(--accent);
+            background: #fff;
+            z-index: 2;
+        }
+        nav label:hover {
+            background: #e3eefd;
+            color: var(--primary);
+        }
+        main {
+            max-width: 900px;
+            margin: 2.5rem auto;
+            background: var(--white);
+            border-radius: 16px;
+            box-shadow: var(--shadow);
+            padding: 2.5rem 1.5rem;
+            min-height: 450px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        section {
+            display: none;
+            animation: fadein 0.7s;
+            width: 100%;
+            max-width: 700px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .section-active {
+            display: block;
+        }
+        h2 {
+            color: var(--primary);
+            margin-top: 0;
+        }
+        .contact-list {
+            padding-left: 0;
+            list-style: none;
+        }
+        .contact-list li {
+            margin-bottom: 0.5em;
+        }
+        .contact-list a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+        .contact-list a:hover {
+            text-decoration: underline;
+        }
+        .desc-nav {
+            padding: 1rem 1.5rem;
+            background: #e3eefd;
+            border-radius: 12px;
+            margin: 1.5rem 0 2rem 0;
+            color: #273c5e;
+            max-width: 800px;
+            text-align: center;
+        }
+        .info-table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 1rem;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .info-table td, .info-table th {
+            border: 1px solid #e3eefd;
+            padding: 0.5rem 0.75rem;
+            text-align: center;
+        }
+        .info-table th {
+            background: #e3eefd;
+            font-weight: bold;
+            color: #222;
+        }
+        .badge-list {
+            list-style: none;
+            padding: 0;
+        }
+        .badge-list li {
+            margin-bottom: 1.1em;
+        }
+        .subsection-title {
+            font-size: 1.1em;
+            margin-top: 1.5em;
+            color: #0d2d6b;
+        }
+        @keyframes fadein {
+            from { opacity: 0; transform: translateY(25px);}
+            to { opacity: 1; transform: none;}
+        }
+        @media (max-width: 900px) {
+            main {
+                padding: 1rem;
+            }
+            .desc-nav {
+                padding: 1rem 0.3rem;
+            }
+            section {
+                max-width: 98vw;
+            }
+        }
+        @media (max-width: 600px) {
+            nav {
+                flex-direction: column;
+            }
+            nav label {
+                padding: 0.8rem;
+                min-width: unset;
+            }
+            .info-table td, .info-table th {
+                font-size: 0.97em;
+                padding: 0.35rem 0.25rem;
+            }
+        }
+footer {
+            width: 100vw;
+            background: #073763;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0 0.5rem 0;
+            font-size: 1rem;
+            letter-spacing: 0.5px;
+            margin-top: 2rem;
+            border-radius: 20px 20px 0 0;
+            box-shadow: 0 -1px 7px rgba(0,0,0,0.06);
+        }
+        #tab-welcome:checked ~ main #welcome,
+        #tab-summary:checked ~ main #summary,
+        #tab-skills:checked ~ main #skills,
+        #tab-education:checked ~ main #education,
+        #tab-projects:checked ~ main #projects,
+        #tab-certificates:checked ~ main #certificates,
+        #tab-activities:checked ~ main #activities,
+        #tab-personal-details:checked ~ main #personal-details,
+        #tab-contact:checked ~ main #contact {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+<div class="center-container">
+    <header>
+        <h1>Abhijit Sahoo</h1>
+        <p>MCA Student | Cloud Computing & DevOps Enthusiast</p>
+    </header>
+
+    <!-- Radio buttons for section switching -->
+    <input type="radio" id="tab-welcome" name="sections" checked>
+    <input type="radio" id="tab-summary" name="sections">
+    <input type="radio" id="tab-skills" name="sections">
+    <input type="radio" id="tab-education" name="sections">
+    <input type="radio" id="tab-projects" name="sections">
+    <input type="radio" id="tab-certificates" name="sections">
+    <input type="radio" id="tab-activities" name="sections">
+    <input type="radio" id="tab-personal-details" name="sections">
+    <input type="radio" id="tab-contact" name="sections">
+
+    <nav aria-label="Section navigation">
+        <label for="tab-welcome">Welcome</label>
+        <label for="tab-summary">Professional Summary</label>
+        <label for="tab-skills">Technical Skills</label>
+        <label for="tab-education">Education</label>
+        <label for="tab-projects">Projects</label>
+        <label for="tab-certificates">Certificates & Achievements</label>
+        <label for="tab-activities">Activities</label>
+        <label for="tab-personal-details">Personal Details</label>
+        <label for="tab-contact">Contact</label>
+    </nav>
+    
+        <main>
+        <section id="welcome" class="section-active">
+            <img class="welcome-img" src="https://avatars.githubusercontent.com/u/200543497?s=400&u=2af8043fe9c546225f5e46fb8d8dcbfdc1f2da4f&v=4" alt="Abhijit Sahoo photo">
+            <h2>Welcome!</h2>
+            <table class="info-table">
+                <tr>
+                    <th>Name</th>
+                    <td>Abhijit Sahoo</td>
+                </tr>
+                <tr>
+                    <th>Location</th>
+                    <td>Jagatsinghpur, Odisha, 754141, India</td>
+                </tr>
+                <tr>
+                    <th>Email</th>
+                    <td><a href="mailto:abhihours24@gmail.com">abhihours24@gmail.com</a></td>
+                </tr>
+                <tr>
+                    <th>LinkedIn</th>
+                    <td><a href="https://www.linkedin.com/in/abhijit-sahoo-993a4a303" target="_blank">Abhijit Sahoo</a></td>
+                </tr>
+                <tr>
+                    <th>GitHub</th>
+                    <td><a href="https://github.com/AbhijitSahooAbhi" target="_blank">AbhijitSahooAbhi</a></td>
+                </tr>
+            </table>
+            <div class="subsection-title"><h1>Objective</h1></div>
+            <p>
+                Seeking an entry-level position in Information Technology to apply my skills in DBMS, web development, and programming.<br>
+                Eager to contribute to a dynamic tech team and support the growth and success of the organization.
+            </p>
+        </section>
+        <section id="summary">
+            <h2>Professional Summary</h2>
+            <p>
+                Information Technology student with a solid foundation in DBMS, Web Technologies, and Programming Languages (C, C++, Java).
+                Proven teamwork, leadership, and problem-solving abilities through academic projects and extracurricular activities.
+                Eager to leverage technical and analytical skills to contribute to a dynamic tech company.
+            </p>
+        </section>
+        <section id="skills">
+            <h2>Technical Skills</h2>
+            <ul style="display:inline-block;text-align:left;">
+                <li><b>Databases:</b> DBMS</li>
+                <li><b>Office Tools:</b> MS Office</li>
+                <li><b>Operating Systems:</b> Windows, Linux</li>
+                <li><b>Programming Languages:</b> C, C++, JAVA</li>
+                <li><b>Web Technologies:</b> HTML, PHP, CSS, JavaScript</li>
+                <li><b>Other:</b> Cloud Computing, Docker, Kubernetes</li>
+            </ul>
+            <div class="subsection-title"><h1>Behavioral Skills</h1></div>
+            <ul style="display:inline-block;text-align:left;">
+                <li>Teamwork</li>
+                <li>Leadership</li>
+                <li>Problem-solving</li>
+                <li>Adaptation & Smart Learning</li>
+            </ul>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <table class="info-table">
+                <tr>
+                    <th>Degree</th>
+                    <th>Institution</th>
+                    <th>Year</th>
+                    <th>Result</th>
+                </tr>
+                <tr>
+                    <td>Master of Computer Applications (MCA)</td>
+                    <td>Institute of Management and Information Technology, Cuttack</td>
+                    <td>2024 - Present</td>
+                    <td>Ongoing</td>
+                </tr>
+                <tr>
+                    <td>Bachelor’s in Information Technology & Management</td>
+                    <td>Ravenshaw University, Cuttack</td>
+                    <td>2021 – 2024</td>
+                    <td>CGPA: 8.66</td>
+                </tr>
+                <tr>
+                    <td>11th & 12th Board (Science)</td>
+                    <td>Stewart Science College, Cuttack</td>
+                    <td>2019 – 2021</td>
+                    <td>76.17%</td>
+                </tr>
+                <tr>
+                    <td>10th Board / Matriculation</td>
+                    <td>Ravenshaw Collegiate School, Cuttack</td>
+                    <td>2018 – 2019</td>
+                    <td>74.17%</td>
+                </tr>
+            </table>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <div>
+                <h3>ILEARNSPACE (March 2024 – May 2024)</h3>
+                <p>
+                    <strong>Objective:</strong> Developed a web-based system for efficient attendance tracking and easy summary of each student's attendance in educational institutions.
+                </p>
+                <ul style="display:inline-block;text-align:left;">
+                    <li><strong>Technologies Used:</strong> HTML, CSS, PHP, JavaScript, MySQL</li>
+                    <li><strong>Key Features:</strong>
+                        <ul>
+                            <li>Role-based access control for administrators, faculty, and students.</li>
+                            <li>Automated attendance recording to streamline the process.</li>
+                            <li>Real-time data updates for accurate and up-to-date attendance records.</li>
+                            <li>Comprehensive reporting tools to generate detailed summaries and reports.</li>
+                            <li>Notice sending by admin/faculty to students for effective communication.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section id="certificates">
+            <h2>Certificates & Achievements</h2>
+            <ul class="badge-list" style="display:inline-block;text-align:left;">
+                <li>
+                    <b>Working with JSON, Arrays, and Structs in BigQuery</b><br>
+                    Issued: Feb 25 | Source: Coursera | Authorized by: Google Cloud
+                </li>
+                <li>
+                    <b>Introduction to Containers w/ Docker, Kubernetes & OpenShift</b><br>
+                    Issued: Feb 25 | Source: Coursera | Authorized by: IBM
+                </li>
+                <li>
+                    <b>Introduction to Cloud Computing</b><br>
+                    Issued: Mar 25 | Source: Coursera | Authorized by: IBM
+                </li>
+                <li>
+                    <b>Introduction to DevOps</b><br>
+                    Issued: Apr 03 | Source: Coursera | Authorized by: IBM
+                </li>
+            </ul>
+            <div class="subsection-title"><h1>Badges & Achievements</h1></div>
+            <ul style="display:inline-block;text-align:left;">
+                <li>
+                    <b>Introduction to Cloud Computing</b> (Coursera / IBM)<br>
+                    <span style="font-size: 0.96em;">
+                        Understands the basics of cloud technology, cloud platforms and models (IaaS, PaaS, SaaS, public/private/hybrid clouds), cloud terms (Virtualization, VMs, Containers, etc.), and hands-on experience with IBM Cloud provisioning.
+                    </span>
+                </li>
+                <li>
+                    <b>Containers & Kubernetes Essentials Badge</b> (Coursera / IBM)<br>
+                    <span style="font-size: 0.96em;">
+                        Able to build and run a container image, understands Kubernetes architecture, YAML deployment, scaling, deployments, and tools like OpenShift, Istio.
+                    </span>
+                </li>
+            </ul>
+        </section>
+        <section id="activities">
+            <h2>Activities</h2>
+            <div>
+                <h3>National Cadet Corps (NCC)</h3>
+                <p>
+                    <b>Nov 2019 – June 2022</b><br>
+                    Developed leadership and teamwork skills through active participation in NCC activities.<br>
+                    Led a team of cadets in various drills and in NCC camps.
+                </p>
+            </div>
+        </section>
+        <section id="personal-details">
+            <h2>Personal Details</h2>
+            <table class="info-table">
+                <tr>
+                    <th>Marital Status</th>
+                    <td>Single</td>
+                </tr>
+                <tr>
+                    <th>Nationality</th>
+                    <td>Indian</td>
+                </tr>
+                <tr>
+                    <th>Religion</th>
+                    <td>Hindu</td>
+                </tr>
+                <tr>
+                    <th>Gender</th>
+                    <td>Male</td>
+                </tr>
+                <tr>
+                    <th>Languages Known</th>
+                    <td>English, Hindi, Odia</td>
+                </tr>
+            </table>
+        </section>
+        <section id="contact">
+            <h2>Contact Information</h2>
+            <ul class="contact-list">
+                <li><strong>Email:</strong> <a href="mailto:abhihours24@gmail.com">abhihours24@gmail.com</a></li>
+                <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abhijit-sahoo-993a4a303" target="_blank">Abhijit Sahoo</a></li>
+                <li><strong>GitHub:</strong> <a href="https://github.com/AbhijitSahooAbhi" target="_blank">AbhijitSahooAbhi</a></li>
+            </ul>
+        </section>
+    </main>
+  <footer>
+        &copy; 2025 Abhijit Sahoo. All rights reserved.
+    </footer>
+</div>
+</body>
+</html>
